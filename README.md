@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available on [My GitHub](https://github.com/playgude2)
 
-- 📄 Know about my experiences: [My LinkedIn](https://linkedin.com/in/pranav-laygude-b43057203)
+- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/pranav-laygude-99bb24291/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
