@@ -1,112 +1,70 @@
 <h1 align="center">Hi 👋, I'm Pranav Laygude</h1>
-<h3 align="center">A Passionate Software and Blockchain Developer</h3>
+<h3 align="center">🚀 Full-Stack & Blockchain Developer | SSI | Hyperledger | React | NestJS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=playgude2&label=Profile%20Views&color=blue&style=flat-square" alt="playgude2" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=social" alt="" />
-  </a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, NestJs, ReactJs**
+- 🛠️ I'm a **Full-Stack Developer** with 3+ years of experience building scalable backend services and modern frontend apps.
+- 🌐 Currently working on **Self-Sovereign Identity (SSI)** using **Hyperledger Indy**, **Ethereum**, and **IPFS**.
+- 🔍 Exploring advanced image generation with **SDXL diffusion models** and **AI avatars**.
+- 💬 Ask me about **NestJS**, **React**, **Blockchain**, **Prisma**, **Docker**, and **CI/CD**.
+- 📫 Reach me at: **123pranavlaygude@gmail.com**
+- 🧠 MSc in Software Engineering, Cardiff University (2023–2024)
+- 🌍 [My Portfolio](https://pranav-laygude-portfolio.netlify.app/)
 
-- 💬 Ask me about **Blockchain, SSI, Hyperledger Indy, Ethereum**
+---
 
-- 📫 How to reach me: **123pranavlaygude@gmail.com**
+### 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/playgude2)
+#### Languages & Frameworks
 
-- 📄 Know about my experiences: [My LinkedIn](https://www.linkedin.com/in/pranav-laygude-99bb24291/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-<h3 align="left">Connect with me:</h3>
+#### Tools & DevOps
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![TypeORM](https://img.shields.io/badge/-TypeORM-bf1c1c?style=flat-square&logo=typeorm)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Keycloak](https://img.shields.io/badge/-Keycloak-3C6E71?style=flat-square&logo=keycloak)
+
+---
+
+### 🧪 Featured Projects
+
+- 🔗 **[TrustChain](https://github.com/playgude2/TrustChain)**  
+  *Blockchain-based identity verification using Ethereum smart contracts and WebSockets.*
+
+- 📄 **[KidsConnect (Electron.js)](https://github.com/playgude2/KidsConnect)**  
+  *Secure desktop app for legal data management with PDF generation and offline support.*
+
+- 🧬 **Soulogram (AI Image Gen)**  
+  *Generated AI avatars using SDXL diffusion models integrated via FastAPI & NestJS.*
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/pranav-laygude-b43057203" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="pranav-laygude-b43057203" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/pranav-laygude-99bb24291/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/prannav_laygude" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="prannav_laygude" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://instagram.com/prannav_laygude" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram" />
   </a>
 </p>
-
-<div>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=playgude2&show_icons=true&locale=en&layout=compact" alt="playgude2" />
-  </p>
-  <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=playgude2&show_icons=true&locale=en" alt="playgude2" />
-  </p>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=playgude2" alt="playgude2" />
-</p>
-
