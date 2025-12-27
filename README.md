@@ -123,11 +123,6 @@
 
 ---
 
-#### 🧬 Soulogram — AI Image Generation
-- Generated AI avatars using SDXL diffusion models integrated via FastAPI & NestJS
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
