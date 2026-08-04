@@ -16,7 +16,7 @@
 <!-- ========= TYPING INTRO ========= -->
 <p align="center">
   <a href="https://github.com/playgude2">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=140&lines=Senior+Backend+Developer+%40+Information+Data+Systems;AI+Agents+%E2%80%A2+Voice+Agents+%E2%80%A2+RAG+%E2%80%A2+LLM+Systems;Self-Sovereign+Identity+%E2%80%A2+Blockchain+%E2%80%A2+W3C+VC;Crafting+scalable+systems+with+TypeScript%2C+Python+%26+NestJS" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=140&lines=Senior+Software+Developer+%40+Information+Data+Systems;AI+Agents+%E2%80%A2+LLM+Systems+%E2%80%A2+RAG+%E2%80%A2+Voice+Agents;Self-Sovereign+Identity+%E2%80%A2+Blockchain+%E2%80%A2+W3C+VC;Scalable+backends+with+TypeScript%2C+Python+%26+NestJS" alt="typing intro" />
   </a>
 </p>
 
@@ -34,15 +34,15 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🛠️ **Senior Backend Developer @ Information Data Systems (IDS)** — building blockchain-based identity systems using **Self-Sovereign Identity (SSI)** principles.
-- 🧠 **4+ years** designing AI-driven, ETL-powered, and RAG-enabled systems across **Python**, **TypeScript**, **NestJS**, **React**, and **PostgreSQL**.
-- 🤖 Specializing in **AI agents**, **voice agents**, **LLM-powered applications**, and **intelligent automation** — with **Claude**, **OpenAI**, **Gemini**, and **Cursor**.
+- 🛠️ **Senior Software Developer @ Information Data Systems (IDS)** — backend services, LLM-powered features, and blockchain identity built on **Self-Sovereign Identity (SSI)** principles.
+- 🧠 **4+ years** designing AI-driven, event-driven, and RAG-enabled systems across **TypeScript**, **Python**, **NestJS**, **React**, and **PostgreSQL**.
+- 🤖 Specializing in **AI agents**, **voice agents**, **LLM-powered products**, and **intelligent automation** — with **Claude**, **OpenAI**, **Gemini**, and **Cursor**.
 - 🔐 Experienced in **SSI** using **Hyperledger Indy**, **Ethereum**, **Polygon**, and **IPFS** for decentralized credentials and verifiable identity.
-- 🚀 Recent work: **VaultPass** (Polygon-anchored luxury certificates), **StegoIdentity** (W3C credentials hidden in images), **MindMatch** (Claude-powered AI gaming), **WiseInterview** (AI voice interviewer).
-- ☁️ Building on **AWS**, **GCP**, **Docker**, **Kubernetes** — shipping via **GitHub Actions** & **Jenkins**.
+- 🚀 Currently building: **CodeStack** (multi-tenant coding education platform) and **Slate Studio** (AI whiteboard explainer videos).
+- ☁️ Shipping on **AWS**, **GCP**, **Docker**, **Kubernetes** — via **GitHub Actions** & **Jenkins**.
 - 🎓 **MSc Software Engineering — Cardiff University** (Merit, 2023–2024)
 - 📫 Reach me: **123pranavlaygude@gmail.com**
-- 🌍 [**Portfolio**](https://pranav-laygude-portfolio.netlify.app/) · [**LinkedIn**](https://www.linkedin.com/in/pranav-laygude-99bb24291/)
+- 🌍 [**Portfolio**](https://portfolio-pied-one-d4g9hny77q.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/pranav-laygude-99bb24291/)
 
 <br clear="right" />
 
@@ -64,25 +64,30 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+### 🧪 Testing
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 ### 🤖 AI / LLM
-![Claude](https://img.shields.io/badge/-Claude-8B5CF6?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20Opus%205-8B5CF6?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3c?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG%20Pipelines-121212?style=for-the-badge&logoColor=white)
 ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=for-the-badge&logoColor=white)
 ![Retell AI](https://img.shields.io/badge/-Retell%20AI-FF4F00?style=for-the-badge&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-000000?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge&logoColor=white)
+![Remotion](https://img.shields.io/badge/-Remotion-0B84F3?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -92,6 +97,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-bf1c1c?style=for-the-badge&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=for-the-badge&logoColor=black)
 
 </td>
 <td valign="top" width="33%">
@@ -103,7 +109,11 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### ⚡ Queues & Realtime
+![BullMQ](https://img.shields.io/badge/-BullMQ-DC382D?style=for-the-badge&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🔐 Auth & Security
 ![Keycloak](https://img.shields.io/badge/-Keycloak-3C6E71?style=for-the-badge&logo=keycloak&logoColor=white)
@@ -123,62 +133,47 @@
 
 ---
 
-## 💼 Experience
+## 🚀 Latest Work
 
-```ts
-const career: Experience[] = [
-  {
-    role:     "Senior Backend Developer",
-    company:  "Information Data Systems (IDS)",
-    duration: "Feb 2026 – Present",
-    stack:    ["NestJS", "PostgreSQL", "Docker", "AWS EC2", "S3", "SSI", "Blockchain"],
-    impact: [
-      "Blockchain-based identity solution built on SSI principles",
-      "Scalable backend services with NestJS + PostgreSQL",
-      "Dockerized services deployed on AWS EC2 with S3 integration",
-      "Secure identity verification & credential management workflows",
-    ],
-  },
-  {
-    role:     "Full Stack Engineer",
-    company:  "DSystems",
-    duration: "Jan 2024 – Present",
-    stack:    ["React.js", "Node.js", "NestJS", "Docker", "Jenkins", "CI/CD"],
-    impact: [
-      "Scalable web apps with React.js, Node.js, NestJS",
-      "Optimized RESTful APIs — reduced API response time by 25%",
-      "CI/CD pipelines with Docker + Jenkins for reliable deploys",
-    ],
-  },
-  {
-    role:     "Backend Developer",
-    company:  "Soulverse",
-    duration: "Jun 2025 – Aug 2025",
-    stack:    ["NestJS", "Python", "Stable Diffusion", "AWS", "GCP", "SSI"],
-    impact: [
-      "REST APIs with NestJS, Express & Python for core services",
-      "Self-Sovereign Identity with blockchain Verifiable Credentials",
-      "AI image pipelines — Stable Diffusion via Hugging Face",
-      "Microservices deployed across AWS and GCP",
-    ],
-  },
-  {
-    role:     "Software Engineer",
-    company:  "AyanWorks Technology Solutions Pvt. Ltd.",
-    duration: "Sept 2021 – Aug 2023",
-    stack:    ["Node.js", "NestJS", "PostgreSQL", "MongoDB", "Hyperledger Indy"],
-    impact: [
-      "RESTful APIs with Node.js & NestJS",
-      "Scalable PostgreSQL + MongoDB data layers",
-      "Blockchain decentralized identity using Hyperledger Indy",
-    ],
-  },
-];
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 CodeStack — Multi-Tenant Coding Education Platform
+> LeetCode-style platform where every university runs its own isolated tenant — professors author problems, students submit code, staff grade results.
+
+- ⚙️ Async judging: **BullMQ** workers against a self-hosted **Piston** sandbox
+- 📡 Live verdicts over **Socket.IO** with a REST polling fallback
+- 🛡️ Eight-layer permission model — role hierarchy, org grants, SuperAdmin overrides, feature flags
+- 📊 Transactional per-org seat & classroom quotas
+- 🏫 Full tenant isolation per institution
+
+`NestJS` · `React 19` · `TypeScript` · `PostgreSQL` · `TypeORM` · `BullMQ` · `Redis` · `Socket.IO`
+
+🔗 [GitHub](https://github.com/codestackrepo/Codestack) · 🌐 [Live Demo](https://codestackweb-production.up.railway.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Slate Studio — AI Whiteboard Explainer Videos
+> One line of text in, a narrated hand-drawn whiteboard explainer video out.
+
+- 🧠 Three coordinated **Claude Opus 5** agents — script, diagram geometry, icon design
+- 🗣️ **ElevenLabs** speech alignment drives word-level draw-on timing
+- 🎞️ **Remotion 4** renders the same composition in browser preview and headless MP4 export
+- 📐 Closed-form deterministic layout — no diffusion, no force simulation, no per-frame LLM calls
+
+`Next.js 16` · `React 19` · `TypeScript` · `Claude Opus 5` · `Remotion 4` · `ElevenLabs` · `Drizzle ORM` · `Zod`
+
+🔗 [GitHub](https://github.com/playgude2/slate-studio)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
@@ -236,12 +231,12 @@ const career: Experience[] = [
 ### 🎙️ WiseInterview — AI Voice Interviewer
 > Open-source AI hiring platform with real-time voice interviews.
 
-- 🤖 Auto-generates interviews from JDs (Gemini 2.5)
+- 🤖 Auto-generates interviews from JDs (Gemini Flash 2.5)
 - 📞 Conversational voice interviews via **Retell AI**
 - 📊 LLM-based candidate scoring + feedback
 - 🔒 Supabase + Clerk auth
 
-`Next.js` · `Retell AI` · `Gemini 2.5` · `Supabase`
+`Next.js` · `Retell AI` · `Gemini Flash 2.5` · `Supabase`
 
 🔗 [View on GitHub](https://github.com/playgude2/WiseInterview)
 
@@ -257,7 +252,7 @@ const career: Experience[] = [
 - 🧠 RAG layer for contextual stock queries
 - 💡 Actionable insights & recommendations
 
-`Next.js` · `OpenAI API` · `RAG` · `Python`
+`Python` · `AI/LLM` · `RAG` · `Stock APIs`
 
 🔗 [View on GitHub](https://github.com/playgude2/ai-stock)
 
@@ -307,17 +302,16 @@ const career: Experience[] = [
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=playgude2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6&text_color=ffffff&count_private=true" alt="stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=playgude2&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="streak" />
+  Also: <a href="https://github.com/playgude2/SwapIt">SwapIt</a> · <a href="https://github.com/playgude2/TrustChain">TrustChain</a> · <a href="https://github.com/playgude2/nest-doc-manager">nest-doc-manager</a> · <a href="https://github.com/playgude2?tab=repositories">all repositories →</a>
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playgude2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=10" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=playgude2&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="streak" />
 </p>
 
 ---
@@ -345,7 +339,7 @@ const career: Experience[] = [
   <a href="mailto:123pranavlaygude@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://pranav-laygude-portfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio-pied-one-d4g9hny77q.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/playgude2" target="_blank">
